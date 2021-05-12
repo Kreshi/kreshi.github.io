@@ -1,0 +1,16 @@
+{
+"companyName": "Meindl",
+"productName": "Island MFS Active 2021",
+"productVersion": "1.0",
+"dataUrl": "island_2021_v2.data.unityweb",
+"wasmCodeUrl": "island_2021_v2.wasm.code.unityweb",
+"wasmFrameworkUrl": "island_2021_v2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
